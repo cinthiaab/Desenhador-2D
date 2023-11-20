@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FiguraMandalas
+comment0.text=\r\n\ Contem\ metodos\ para\ desenhar\ Mandalas\r\n\ \r\n\ @author\ Cinthia\ Alves\ Barreto,\ Isabel\ Cavalcante\ Motta,\ Isabella\ Rubio\ Venancio\r\n\ @version\ 14082023\r\n
+comment1.params=g\ x1\ y1\ x2\ y2\ nome\ diametro\ cor
+comment1.target=void\ desenharMandala(java.awt.Graphics,\ int,\ int,\ int,\ int,\ java.lang.String,\ int,\ java.awt.Color)
+comment1.text=\r\n\ Desenha\ uma\ reta\ de\ acordo\ com\ os\ pontos\ p1\ e\ p2\r\n\r\n\ @param\ g\ biblioteca\ para\ desenhar\ o\ primitivo\ grafico\r\n\ @param\ x1\ coordenada\ x\ de\ p1\r\n\ @param\ y1\ coordenada\ y\ de\ p1\r\n\ @param\ x2\ coordenada\ x\ de\ p2\r\n\ @param\ y2\ coordenada\ y\ de\ p2\r\n\ @param\ nome\ nome\ da\ reta\r\n\ @param\ esp\ espessura\ da\ reta\r\n\ @param\ cor\ cor\ da\ reta\r\n
+comment2.params=g\ mandalax
+comment2.target=void\ desenharMandala(java.awt.Graphics,\ MandalaGr)
+numComments=3
